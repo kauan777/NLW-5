@@ -604,6 +604,43 @@ footer .social a:hover{
 
 }
 
+@media (min-width: 992px) {
+    :root {
+        --title-font-size: 2.25rem;
+        --subtitle-font-size: 1.125rem;
+    }
+}
+
+@media (min-width: 600px){
+
+    .container{
+        margin-left:1.5rem;
+        margin-right:1.5rem;
+    }
+
+    .section{
+        padding: 10rem 0;
+    }
+
+    img{
+        width: 80%;
+        height: auto;
+    }
+
+    .cards{
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .section header,
+    #testimonials header{
+        max-width: 32rem;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+}
+
 
 @media (min-width: 1200px){
 
@@ -721,44 +758,4 @@ footer .social a:hover{
 
 
 }
-
-@media (min-width: 992px) {
-    :root {
-        --title-font-size: 2.25rem;
-        --subtitle-font-size: 1.125rem;
-    }
-}
-
-@media (min-width: 600px){
-
-    .container{
-        margin-left:1.5rem;
-        margin-right:1.5rem;
-    }
-
-    .section{
-        padding: 10rem 0;
-    }
-
-    img{
-        width: 80%;
-        height: auto;
-    }
-
-    .cards{
-        grid-template-columns: 1fr 1fr;
-    }
-
-    .section header,
-    #testimonials header{
-        max-width: 32rem;
-        text-align: center;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-}
-
-
-
 
