@@ -1,10 +1,24 @@
-# NLW-6
-Site construido na semana NLW-Together com o Mayk Brito, nessa semana foram abordadas como criar um site responsivo de facil manutenção
-além de estar seguindo conceitos de UI,UX!
+## ✨ Tecnologias
 
-# TECNOLOGIAS USADAS
-HTML
-CSS
-JAVASCRIPT
-SCROLL REVEAL
-SWIPER
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- [HTML]
+- [CSS]
+- [JavaScript]
+- [ScrollReview]
+- [Frame-Motion]
+
+## 💻 Projeto
+
+O projeto é um site(Landing Page) de uma empresa de roupas.
+
+## 🔖 Layout
+
+  Foi feito em mobile-first, então está totalmente responsivo!
+
+## 🚀 Como executar
+
+- É só clonar o projeto!!
+
+
+Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
